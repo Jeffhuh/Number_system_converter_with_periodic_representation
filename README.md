@@ -1,4 +1,5 @@
-# Number_system_converter
+#Number_system_converter_with_periodic_representation
+
 Converts a rational number from an arbitrary number system to the inputted number system. Parameters are:
 [number] [numbersystem of the input number] [numbersystem of the output number] [lengthOfPeriod]
 Example input string: 23.15 8 16 1
