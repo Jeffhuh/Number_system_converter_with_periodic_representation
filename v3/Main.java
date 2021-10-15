@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		//chwatal@spengergasse.at
 		//System.out.println("convertToDecimal number numbersystem lengthBeforePeriod lengthOfPeriod");
 		System.out.println("[number] [numbersystem of the input number] [numbersystem of the output number] [lengthOfPeriod]");
 		Scanner scan = new Scanner(System.in);
